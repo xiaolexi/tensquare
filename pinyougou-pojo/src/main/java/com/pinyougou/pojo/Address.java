@@ -24,6 +24,7 @@ public class Address implements java.io.Serializable{
 	/*fdsafdsfsdfsdfsdf*/
 	/** setter and getter method */
 	/*是就昆仑决范德萨*/
+	/*dsaflkjk la*/
 	public void setId(Long id){
 		this.id = id;
 	}
