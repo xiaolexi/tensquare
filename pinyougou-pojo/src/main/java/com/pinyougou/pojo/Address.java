@@ -21,6 +21,7 @@ public class Address implements java.io.Serializable{
 	private java.util.Date createDate;
 	private String alias;
 
+	/*fdsafdsfsdfsdfsdf*/
 	/** setter and getter method */
 	public void setId(Long id){
 		this.id = id;
